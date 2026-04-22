@@ -1,58 +1,74 @@
-# Hi, I'm Niklas Hoffmann
+# Hi, I'm Niklas 👋
 
-I'm a self-taught developer transitioning into professional software development, with a focus on modern web applications, APIs, and scalable data-driven systems.
+I'm a self-taught developer focused on building modern web applications and data-driven systems.
 
-Currently seeking an apprenticeship as a **Software Developer (Fachinformatiker für Anwendungsentwicklung)** starting in 2026.
+I enjoy working on real-world problems, designing clean architectures, and turning complex data into usable products.
 
-## Featured Projects
+Currently preparing to start my career as a **Software Developer (Fachinformatiker für Anwendungsentwicklung)** in 2026.
+
+---
+
+## What I'm working on
+
+- Building full-stack applications with React, Next.js and Node.js  
+- Designing APIs and backend systems  
+- Working with async processing, data pipelines and scalable architectures  
+- Continuously improving my skills through hands-on projects  
+
+---
+
+## Featured Project
 
 ### NFT Data Platform
-A full-stack NFT data platform for ingesting, processing, and serving ERC-721 and ERC-1155 data through a structured API.
 
-- Built with a modular monorepo architecture
-- Separate web and worker apps for API, operator UI, indexing, metadata resolution, and media processing
-- Normalized read models for consistent data access
-- Async job workflows and object-storage-backed media delivery
+A full-stack platform for collecting, processing and serving NFT data (ERC-721 & ERC-1155).
 
-**Tech Stack:** Node.js, Next.js, React, TypeScript, MongoDB, Redis, Docker
+This project focuses heavily on backend architecture and real-world data handling.
 
-**Live Demo:** https://nft-data-platform.hoffmann-niklas.dev/
+- API-first design for external applications  
+- Worker system for async processing (blockchain data, metadata, media)  
+- Normalized data models for consistent access  
+- Separation of concerns (API, workers, UI)
+
+**Tech:** Node.js, Next.js, React, TypeScript, MongoDB, Redis, Docker  
+
+Live: https://nft-data-platform.hoffmann-niklas.dev/
+
+---
+
+## Side Project / Business
 
 ### Pfalz Development
-A modern business and portfolio website focused on performance, clean presentation, and practical full-stack functionality.
 
-- Responsive multi-language website
-- Contact form with validation and rate limiting
-- Example backend endpoints and health checks
-- Production-oriented setup with Docker and development tooling
+My own small web development project where I build and present modern websites.
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, MongoDB
+This is where I experiment with real-world features and production setups.
 
-**Live Site:** https://pfalz-development.de/
+https://pfalz-development.de/
 
-## Tech Stack
+---
 
-- JavaScript / TypeScript
-- React / Next.js
-- Node.js
-- MongoDB / Redis
-- REST APIs
-- Docker
-- Git / GitHub
+## 🛠 Tech Stack
+
+JavaScript / TypeScript  
+React / Next.js  
+Node.js  
+MongoDB / Redis  
+REST APIs  
+Docker  
+Git / GitHub  
+
+---
 
 ## Background
 
-Before moving into software development, I worked as a chef and butcher.
+Before getting into development, I worked for many years as a chef.
 
-Through self-study and hands-on projects, I built up practical development skills and a strong interest in application development, system design, and real-world problem solving.
+That experience taught me how to work under pressure, stay organized, and focus on delivering consistent quality — skills I now apply to software development.
 
-## Current Focus
-
-- Building production-oriented full-stack applications
-- Improving backend and system design skills
-- Preparing for a long-term professional career in software development
+---
 
 ## Contact
 
-- Website: https://pfalz-development.de/
-- Email: hoffmann.niklas@googlemail.com
+- Website: https://pfalz-development.de/  
+- Email: hoffmann.niklas@googlemail.com  
